@@ -63,7 +63,7 @@ class PojektasController extends Controller
     public function edit(Pojektas $pojektas)
     {
        }
-
+       
     /**
      * Update the specified resource in storage.
      *
